@@ -1,12 +1,5 @@
 [
     {
-      "id": "63bca6f4c8086a90ffb9b776",
-      "userId": 0,
-      "price": 1463.35,
-      "title": "Chen Daniel",
-      "category": "male"
-    },
-    {
       "id": "63bca6f478d4392aa2b210dc",
       "userId": 1,
       "price": 1102.51,
@@ -39,76 +32,6 @@
       "userId": 5,
       "price": 1580.2,
       "title": "Sandy Gardner",
-      "category": "female"
-    },
-    {
-      "id": "63bca6f42c43e9bc7c32215e",
-      "userId": 6,
-      "price": 1690.17,
-      "title": "Hogan Morton",
-      "category": "male"
-    },
-    {
-      "id": "63bca6f41aff324ca242e3fd",
-      "userId": 7,
-      "price": 2920.92,
-      "title": "Mueller Perez",
-      "category": "male"
-    },
-    {
-      "id": "63bca6f468eb608a5a20c9ee",
-      "userId": 8,
-      "price": 3675.76,
-      "title": "Julianne Cote",
-      "category": "female"
-    },
-    {
-      "id": "63bca6f4f141550ea2aa18b9",
-      "userId": 9,
-      "price": 2299.47,
-      "title": "Young Decker",
-      "category": "female"
-    },
-    {
-      "id": "63bca6f4e1d039407ddfd4bf",
-      "userId": 10,
-      "price": 3134.13,
-      "title": "Ronda Stout",
-      "category": "female"
-    },
-    {
-      "id": "63bca6f417f6610057879bb1",
-      "userId": 11,
-      "price": 1404.84,
-      "title": "Marci Chapman",
-      "category": "female"
-    },
-    {
-      "id": "63bca6f432792956d19483fd",
-      "userId": 12,
-      "price": 1411.36,
-      "title": "Miranda Roy",
-      "category": "male"
-    },
-    {
-      "id": "63bca6f43d4b23d3d9b10c82",
-      "userId": 13,
-      "price": 3900.5,
-      "title": "Holloway Small",
-      "category": "male"
-    },
-    {
-      "id": "63bca6f4633e44c09e8029ca",
-      "userId": 14,
-      "price": 3161.12,
-      "title": "Shields Clark",
-      "category": "male"
-    },
-    {
-      "id": "63bca6f4b9b50edd588b342a",
-      "userId": 15,
-      "price": 3079.79,
-      "title": "Mattie Cervantes",
       "category": "female"
     }
   ]
